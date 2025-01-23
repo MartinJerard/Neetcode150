@@ -1,14 +1,9 @@
-package main.java.easy;
+package neetcode150.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
 
 // Link https://leetcode.com/problems/two-sum/description/?envType=problem-list-v2&envId=plakya4j
-public class TwoSum {
-
-import java.util.Arrays;
-import java.util.HashMap;
-
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
 
