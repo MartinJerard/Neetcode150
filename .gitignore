@@ -5,3 +5,7 @@
 build
 
 .vscode
+
+app/build
+app/bin
+app/gradle
